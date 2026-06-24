@@ -1,2 +1,12 @@
-# enterprise-rag-assistant
-AI-powered Enterprise Knowledge Assistant using RAG, Vector Search, FastAPI, ChromaDB, and Llama 3 to provide context-aware question answering from organizational documents.
+# enterprise-rag-assistant Architecture
+User Question
+      ↓
+FastAPI API
+      ↓
+ChromaDB Vector Search
+      ↓
+Relevant Document Chunks
+      ↓
+Llama 3 (Ollama)
+      ↓
+Context-Aware Answer
