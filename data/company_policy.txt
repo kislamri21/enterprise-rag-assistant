@@ -1,0 +1,7 @@
+Company Password Policy
+
+Employess must use strong passwords with at least 12 characters
+Passworkd must include uppercase letters, lowercase letters, numbers, and special characters
+Employess must change their password every 90 days
+Multi-factor authentication is required for all internal systems
+Passworkd must not be shared through email or chat

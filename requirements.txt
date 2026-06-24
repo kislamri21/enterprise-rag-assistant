@@ -1,0 +1,6 @@
+fastapi
+unicorn[standard]
+openai
+chromadb
+python-dotenv
+pydantic
